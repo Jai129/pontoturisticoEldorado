@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+    margin-left: 400px;
+    align-items: center;
+}
+img{
+    margin-left: 130px;
+    width: 550px;
+}
+h2{
+    margin-left: 280px;
+}
+h1{
+    align-items: center;
+    margin-left: 120px;
+}
+p{
+    margin-left: 10px;
+}
